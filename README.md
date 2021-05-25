@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arielpasini
-- 👀 I’m interested in Health Ecommerce Ecosystem and Tennis apps
+- 👀 I’m interested in Ecommerce Ecosystem and Tennis apps
 - 📫 How to reach me -> ari@batitienda.com
 
 <!---
