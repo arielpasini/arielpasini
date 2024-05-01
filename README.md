@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arielpasini
 - 👀 I’m interested in Ecommerce Ecosystem and Tennis apps
-- 📫 How to reach me -> ari@batitienda.com
+- 📫 How to reach me -> ari@tiendastic.com
 
 <!---
 arielpasini/arielpasini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
